@@ -17,4 +17,4 @@ abra no celular.
 - Da versão **1.2.0** em diante, o app avisa quando sai uma versão nova e se atualiza sozinho (o Android pede para
   confirmar).
 
-Este repositório só tem os APKs; o código do app não fica aqui.
+Este repositório só tem os APKs;
